@@ -8,7 +8,7 @@ public class PetStatusUI : MonoBehaviour
     [SerializeField] private PetState petState;
     [SerializeField] private TextMeshProUGUI statusText;
     [SerializeField] private Transform followTarget;
-
+    a
     [Header("Follow")]
     [SerializeField] private Vector3 worldOffset = new Vector3(0f, 1.25f, 0f);
     [SerializeField] private Vector2 screenOffset = new Vector2(90f, 85f);
